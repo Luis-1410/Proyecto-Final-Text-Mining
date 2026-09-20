@@ -1,0 +1,4 @@
+Modelo,Test Loss,Test Accuracy
+CNN_1_Basica,0.344062,0.909259
+CNN_3_Mejorada,0.2761,0.907407
+CNN_2_Intermedia,0.477419,0.846296
